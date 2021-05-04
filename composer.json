@@ -17,8 +17,10 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
+        "laminas/laminas-text": "^2.8",
         "laravel-zero/framework": "^8.7",
-        "lotharthesavior/branch": "^1.0"
+        "lotharthesavior/branch": "^1.0",
+        "php-school/cli-menu": "^4.1"
     },
     "require-dev": {
         "mockery/mockery": "^1.4.2",
